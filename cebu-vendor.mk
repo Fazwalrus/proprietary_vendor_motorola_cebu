@@ -207,8 +207,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/cebu/proprietary/vendor/firmware/a702_sqe.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a702_sqe.fw \
     vendor/motorola/cebu/proprietary/vendor/firmware/aw882xx_mono.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw882xx_mono.bin \
     vendor/motorola/cebu/proprietary/vendor/firmware/aw882xx_spk_reg.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw882xx_spk_reg.bin \
-    vendor/motorola/cebu/proprietary/vendor/firmware/focaltech-dsbj-ft8006s_aa-05-0000-cebu.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/focaltech-dsbj-ft8006s_aa-05-0000-cebu.bin \
-    vendor/motorola/cebu/proprietary/recovery/root/vendor/firmware/focaltech-dsbj-ft8006s_aa-05-0000-cebu.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/focaltech-dsbj-ft8006s_aa-05-0000-cebu.bin \
+    vendor/motorola/cebu/proprietary/recovery/root/vendor/firmware/focaltech_ts_fw_dsbj.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/focaltech_ts_fw_dsbj.bin \
+    vendor/motorola/cebu/proprietary/vendor/firmware/focaltech_ts_fw_dsbj.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/focaltech_ts_fw_dsbj.bin \
     vendor/motorola/cebu/proprietary/vendor/firmware/novatek_ts_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/novatek_ts_fw.bin \
     vendor/motorola/cebu/proprietary/recovery/root/vendor/firmware/novatek_ts_fw.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/novatek_ts_fw.bin \
     vendor/motorola/cebu/proprietary/vendor/firmware/novatek_ts_mp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/novatek_ts_mp.bin \
