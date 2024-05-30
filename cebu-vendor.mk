@@ -103,10 +103,10 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/cebu/proprietary/vendor/firmware/aw882xx_spk_reg.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw882xx_spk_reg.bin \
     vendor/motorola/cebu/proprietary/recovery/root/vendor/firmware/focaltech_ts_fw_dsbj.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/focaltech_ts_fw_dsbj.bin \
     vendor/motorola/cebu/proprietary/vendor/firmware/focaltech_ts_fw_dsbj.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/focaltech_ts_fw_dsbj.bin \
-    vendor/motorola/cebu/proprietary/vendor/firmware/novatek_ts_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/novatek_ts_fw.bin \
-    vendor/motorola/cebu/proprietary/recovery/root/vendor/firmware/novatek_ts_fw.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/novatek_ts_fw.bin \
-    vendor/motorola/cebu/proprietary/vendor/firmware/novatek_ts_mp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/novatek_ts_mp.bin \
-    vendor/motorola/cebu/proprietary/recovery/root/vendor/firmware/novatek_ts_mp.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/novatek_ts_mp.bin \
+    vendor/motorola/cebu/proprietary/recovery/root/vendor/firmware/tm_novatek_ts_fw.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/tm_novatek_ts_fw.bin \
+    vendor/motorola/cebu/proprietary/vendor/firmware/tm_novatek_ts_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/tm_novatek_ts_fw.bin \
+    vendor/motorola/cebu/proprietary/recovery/root/vendor/firmware/tm_novatek_ts_mp.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/tm_novatek_ts_mp.bin \
+    vendor/motorola/cebu/proprietary/vendor/firmware/tm_novatek_ts_mp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/tm_novatek_ts_mp.bin \
     vendor/motorola/cebu/proprietary/vendor/lib/libcamxexternalformatutils.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcamxexternalformatutils.so \
     vendor/motorola/cebu/proprietary/vendor/lib64/camera/com.mot.eeprom.mot_gt24p64b_ov02b10_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.mot.eeprom.mot_gt24p64b_ov02b10_eeprom.so \
     vendor/motorola/cebu/proprietary/vendor/lib64/camera/com.mot.eeprom.mot_gt24p64b_ov16a1q_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.mot.eeprom.mot_gt24p64b_ov16a1q_eeprom.so \
